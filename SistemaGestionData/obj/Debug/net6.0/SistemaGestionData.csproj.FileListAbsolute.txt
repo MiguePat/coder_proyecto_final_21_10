@@ -1,0 +1,135 @@
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.deps.json
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.dll
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.pdb
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionData\bin\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionData\bin\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.CopyComplete
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.dll
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\refint\SistemaGestionData.dll
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.pdb
+C:\Users\Miguel\Desktop\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\ref\SistemaGestionData.dll
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.deps.json
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.dll
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.pdb
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionData\bin\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionData\bin\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.AssemblyReference.cache
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfoInputs.cache
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfo.cs
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.CoreCompileInputs.cache
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.CopyComplete
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.dll
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\refint\SistemaGestionData.dll
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.pdb
+C:\Users\migra\OneDrive\Escritorio\coder 10_5\coder 10_5\SistemaGestion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\ref\SistemaGestionData.dll
+C:\Users\Miguel\Desktop\Coder 10 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.deps.json
+C:\Users\Miguel\Desktop\Coder 10 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.dll
+C:\Users\Miguel\Desktop\Coder 10 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.pdb
+C:\Users\Miguel\Desktop\Coder 10 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\Miguel\Desktop\Coder 10 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\Miguel\Desktop\Coder 10 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Coder 10 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\Coder 10 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\Coder 10 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\Coder 10 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Coder 10 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.CopyComplete
+C:\Users\Miguel\Desktop\Coder 10 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.dll
+C:\Users\Miguel\Desktop\Coder 10 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\refint\SistemaGestionData.dll
+C:\Users\Miguel\Desktop\Coder 10 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.pdb
+C:\Users\Miguel\Desktop\Coder 10 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\ref\SistemaGestionData.dll
+C:\Users\migra\OneDrive\Escritorio\Coder 10 10\Coder 10 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.deps.json
+C:\Users\migra\OneDrive\Escritorio\Coder 10 10\Coder 10 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.dll
+C:\Users\migra\OneDrive\Escritorio\Coder 10 10\Coder 10 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.pdb
+C:\Users\migra\OneDrive\Escritorio\Coder 10 10\Coder 10 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\migra\OneDrive\Escritorio\Coder 10 10\Coder 10 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\migra\OneDrive\Escritorio\Coder 10 10\Coder 10 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.AssemblyReference.cache
+C:\Users\migra\OneDrive\Escritorio\Coder 10 10\Coder 10 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migra\OneDrive\Escritorio\Coder 10 10\Coder 10 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfoInputs.cache
+C:\Users\migra\OneDrive\Escritorio\Coder 10 10\Coder 10 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfo.cs
+C:\Users\migra\OneDrive\Escritorio\Coder 10 10\Coder 10 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.CoreCompileInputs.cache
+C:\Users\migra\OneDrive\Escritorio\Coder 10 10\Coder 10 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.CopyComplete
+C:\Users\migra\OneDrive\Escritorio\Coder 10 10\Coder 10 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.dll
+C:\Users\migra\OneDrive\Escritorio\Coder 10 10\Coder 10 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\refint\SistemaGestionData.dll
+C:\Users\migra\OneDrive\Escritorio\Coder 10 10\Coder 10 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.pdb
+C:\Users\migra\OneDrive\Escritorio\Coder 10 10\Coder 10 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\ref\SistemaGestionData.dll
+C:\Users\Miguel\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.deps.json
+C:\Users\Miguel\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.dll
+C:\Users\Miguel\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.pdb
+C:\Users\Miguel\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\Miguel\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\Miguel\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.CopyComplete
+C:\Users\Miguel\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.dll
+C:\Users\Miguel\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\refint\SistemaGestionData.dll
+C:\Users\Miguel\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.pdb
+C:\Users\Miguel\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\ref\SistemaGestionData.dll
+C:\Users\Miguel\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.deps.json
+C:\Users\Miguel\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.dll
+C:\Users\Miguel\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.pdb
+C:\Users\Miguel\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\Miguel\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\Miguel\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.CopyComplete
+C:\Users\Miguel\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.dll
+C:\Users\Miguel\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\refint\SistemaGestionData.dll
+C:\Users\Miguel\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.pdb
+C:\Users\Miguel\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\ref\SistemaGestionData.dll
+C:\Users\migra\OneDrive\Escritorio\Coder 11 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.deps.json
+C:\Users\migra\OneDrive\Escritorio\Coder 11 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.dll
+C:\Users\migra\OneDrive\Escritorio\Coder 11 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.pdb
+C:\Users\migra\OneDrive\Escritorio\Coder 11 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\migra\OneDrive\Escritorio\Coder 11 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\migra\OneDrive\Escritorio\Coder 11 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.AssemblyReference.cache
+C:\Users\migra\OneDrive\Escritorio\Coder 11 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migra\OneDrive\Escritorio\Coder 11 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfoInputs.cache
+C:\Users\migra\OneDrive\Escritorio\Coder 11 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfo.cs
+C:\Users\migra\OneDrive\Escritorio\Coder 11 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.CoreCompileInputs.cache
+C:\Users\migra\OneDrive\Escritorio\Coder 11 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.CopyComplete
+C:\Users\migra\OneDrive\Escritorio\Coder 11 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.dll
+C:\Users\migra\OneDrive\Escritorio\Coder 11 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\refint\SistemaGestionData.dll
+C:\Users\migra\OneDrive\Escritorio\Coder 11 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.pdb
+C:\Users\migra\OneDrive\Escritorio\Coder 11 10\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\ref\SistemaGestionData.dll
+C:\Users\jaalvarez\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.deps.json
+C:\Users\jaalvarez\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.dll
+C:\Users\jaalvarez\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.pdb
+C:\Users\jaalvarez\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\jaalvarez\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\jaalvarez\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.AssemblyReference.cache
+C:\Users\jaalvarez\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaalvarez\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfoInputs.cache
+C:\Users\jaalvarez\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfo.cs
+C:\Users\jaalvarez\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.CoreCompileInputs.cache
+C:\Users\jaalvarez\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.CopyComplete
+C:\Users\jaalvarez\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.dll
+C:\Users\jaalvarez\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\refint\SistemaGestionData.dll
+C:\Users\jaalvarez\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.pdb
+C:\Users\jaalvarez\Desktop\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\ref\SistemaGestionData.dll
+C:\Users\migra\OneDrive\Escritorio\coder 20_10\Sistema-de-gestion-main\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.deps.json
+C:\Users\migra\OneDrive\Escritorio\coder 20_10\Sistema-de-gestion-main\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.dll
+C:\Users\migra\OneDrive\Escritorio\coder 20_10\Sistema-de-gestion-main\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.pdb
+C:\Users\migra\OneDrive\Escritorio\coder 20_10\Sistema-de-gestion-main\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\migra\OneDrive\Escritorio\coder 20_10\Sistema-de-gestion-main\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\bin\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\migra\OneDrive\Escritorio\coder 20_10\Sistema-de-gestion-main\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.AssemblyReference.cache
+C:\Users\migra\OneDrive\Escritorio\coder 20_10\Sistema-de-gestion-main\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migra\OneDrive\Escritorio\coder 20_10\Sistema-de-gestion-main\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfoInputs.cache
+C:\Users\migra\OneDrive\Escritorio\coder 20_10\Sistema-de-gestion-main\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfo.cs
+C:\Users\migra\OneDrive\Escritorio\coder 20_10\Sistema-de-gestion-main\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.CoreCompileInputs.cache
+C:\Users\migra\OneDrive\Escritorio\coder 20_10\Sistema-de-gestion-main\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.CopyComplete
+C:\Users\migra\OneDrive\Escritorio\coder 20_10\Sistema-de-gestion-main\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.dll
+C:\Users\migra\OneDrive\Escritorio\coder 20_10\Sistema-de-gestion-main\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\refint\SistemaGestionData.dll
+C:\Users\migra\OneDrive\Escritorio\coder 20_10\Sistema-de-gestion-main\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.pdb
+C:\Users\migra\OneDrive\Escritorio\coder 20_10\Sistema-de-gestion-main\Sistema-de-gestion-main\Sistema-de-gestion-main\SistemaGestionData\obj\Debug\net6.0\ref\SistemaGestionData.dll
